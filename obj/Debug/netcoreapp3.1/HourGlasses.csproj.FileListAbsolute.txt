@@ -1,0 +1,13 @@
+C:\Users\Diego Fernando\source\repos\HourGlasses\bin\Debug\netcoreapp3.1\HourGlasses.exe
+C:\Users\Diego Fernando\source\repos\HourGlasses\bin\Debug\netcoreapp3.1\HourGlasses.deps.json
+C:\Users\Diego Fernando\source\repos\HourGlasses\bin\Debug\netcoreapp3.1\HourGlasses.runtimeconfig.json
+C:\Users\Diego Fernando\source\repos\HourGlasses\bin\Debug\netcoreapp3.1\HourGlasses.runtimeconfig.dev.json
+C:\Users\Diego Fernando\source\repos\HourGlasses\bin\Debug\netcoreapp3.1\HourGlasses.dll
+C:\Users\Diego Fernando\source\repos\HourGlasses\bin\Debug\netcoreapp3.1\HourGlasses.pdb
+C:\Users\Diego Fernando\source\repos\HourGlasses\obj\Debug\netcoreapp3.1\HourGlasses.csprojAssemblyReference.cache
+C:\Users\Diego Fernando\source\repos\HourGlasses\obj\Debug\netcoreapp3.1\HourGlasses.AssemblyInfoInputs.cache
+C:\Users\Diego Fernando\source\repos\HourGlasses\obj\Debug\netcoreapp3.1\HourGlasses.AssemblyInfo.cs
+C:\Users\Diego Fernando\source\repos\HourGlasses\obj\Debug\netcoreapp3.1\HourGlasses.csproj.CoreCompileInputs.cache
+C:\Users\Diego Fernando\source\repos\HourGlasses\obj\Debug\netcoreapp3.1\HourGlasses.dll
+C:\Users\Diego Fernando\source\repos\HourGlasses\obj\Debug\netcoreapp3.1\HourGlasses.pdb
+C:\Users\Diego Fernando\source\repos\HourGlasses\obj\Debug\netcoreapp3.1\HourGlasses.genruntimeconfig.cache
